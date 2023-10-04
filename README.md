@@ -5,7 +5,7 @@ This app demonstrates using react functional components to build an interactive 
 
 ## Available Scripts
 
-In the project directory, you can run:
+Git clone the project and run:
 
 ### `npm start`
 
